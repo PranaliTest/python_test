@@ -1,2 +1,2 @@
 API_KEY="1234567890"
-PASSWORD="test"
+
